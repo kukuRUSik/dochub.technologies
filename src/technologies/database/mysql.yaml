@@ -1,0 +1,61 @@
+---
+
+technologies:
+  items:
+    mysql:
+      section: database
+      status: hold
+      title: MySQL
+      aliases:
+        - MySQL
+        - mysql
+      link: https://ru.wikipedia.org/wiki/MySQL
+
+    mysql50:
+      section: database
+      status: hold
+      title: MySQL 5.0
+      aliases:
+        - MySQL 5.0
+        - mysql 5.0
+      link: https://downloads.mysql.com/docs/mysql-5.0-relnotes-en.pdf
+    mysql51:
+      section: database
+      status: hold
+      title: MySQL 5.1
+      aliases:
+        - MySQL 5.1
+        - mysql 5.1
+      link: https://downloads.mysql.com/docs/mysql-5.1-relnotes-en.pdf
+    mysql55:
+      section: database
+      status: hold
+      title: MySQL 5.5
+      aliases:
+        - MySQL 5.5
+        - mysql 5.5
+      link: https://downloads.mysql.com/docs/mysql-5.5-relnotes-en.pdf
+    mysql56:
+      section: database
+      status: hold
+      title: MySQL 5.6
+      aliases:
+        - MySQL 5.6
+        - mysql 5.6
+      link: https://downloads.mysql.com/docs/mysql-5.6-relnotes-en.pdf
+    mysql57:
+      section: database
+      status: hold
+      title: MySQL 5.7
+      aliases:
+        - MySQL 5.7
+        - mysql 5.7
+      link: https://downloads.mysql.com/docs/mysql-5.7-relnotes-en.pdf
+    mysql80:
+      section: database
+      status: hold
+      title: MySQL 8.0
+      aliases:
+        - MySQL 8.0
+        - mysql 8.0
+      link: https://dev.mysql.com/doc/relnotes/mysql/8.0/en/

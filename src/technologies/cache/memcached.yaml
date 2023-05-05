@@ -1,0 +1,12 @@
+---
+
+technologies:
+  items:
+    redis:
+      section: cache
+      status: hold
+      title: Memcached
+      aliases:
+        - Memcached
+        - memcached
+      link: https://ru.wikipedia.org/wiki/Memcached

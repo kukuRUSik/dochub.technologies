@@ -1,0 +1,33 @@
+---
+
+technologies:
+  items:
+    csharp:
+      section: language
+      status: hold
+      title: C#
+      aliases:
+        - C#
+        - csharp
+      link: https://ru.wikipedia.org/wiki/C_Sharp
+
+    csharp8:
+      section: language
+      status: hold
+      title: C# 8
+      link: https://learn.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-8
+    csharp9:
+      section: language
+      status: hold
+      title: C# 9
+      link: https://learn.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-9
+    csharp10:
+      section: language
+      status: hold
+      title: C# 10
+      link: https://learn.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-10
+    csharp11:
+      section: language
+      status: hold
+      title: C# 11
+      link: https://learn.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-11

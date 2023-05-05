@@ -1,0 +1,12 @@
+---
+
+technologies:
+  items:
+    mssql:
+      section: database
+      status: hold
+      title: Elasticsearch
+      aliases:
+        - Elasticsearch
+        - elasticsearch
+      link: https://ru.wikipedia.org/wiki/Elasticsearch

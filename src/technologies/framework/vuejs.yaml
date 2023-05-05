@@ -1,0 +1,115 @@
+---
+
+technologies:
+  items:
+    vuejs:
+      section: framework
+      status: hold
+      title: Vue.JS
+      aliases:
+        - VueJS
+        - vuejs
+        - Vue
+        - vue
+      link: https://ru.vuejs.org
+
+    vuejs20:
+      section: framework
+      status: hold
+      title: Vue.JS 2.0
+      aliases:
+        - VueJS20
+        - vuejs20
+        - Vue20
+        - vue20
+      link: https://ru.vuejs.org/v2/guide/
+    vuejs21:
+      section: framework
+      status: hold
+      title: Vue.JS 2.1
+      aliases:
+        - VueJS21
+        - vuejs21
+        - Vue21
+        - vue21
+      link: https://ru.vuejs.org/v2/guide/
+    vuejs22:
+      section: framework
+      status: hold
+      title: Vue.JS 2.2
+      aliases:
+        - VueJS22
+        - vuejs22
+        - Vue22
+        - vue22
+      link: https://ru.vuejs.org/v2/guide/
+    vuejs23:
+      section: framework
+      status: hold
+      title: Vue.JS 2.3
+      aliases:
+        - VueJS23
+        - vuejs23
+        - Vue23
+        - vue23
+      link: https://ru.vuejs.org/v2/guide/
+    vuejs24:
+      section: framework
+      status: hold
+      title: Vue.JS 2.4
+      aliases:
+        - VueJS24
+        - vuejs24
+        - Vue24
+        - vue24
+      link: https://ru.vuejs.org/v2/guide/
+    vuejs25:
+      section: framework
+      status: hold
+      title: Vue.JS 2.5
+      aliases:
+        - VueJS25
+        - vuejs25
+        - Vue25
+        - vue25
+      link: https://ru.vuejs.org/v2/guide/
+    vuejs26:
+      section: framework
+      status: hold
+      title: Vue.JS 2.6
+      aliases:
+        - VueJS26
+        - vuejs26
+        - Vue26
+        - vue26
+      link: https://ru.vuejs.org/v2/guide/
+    vuejs30:
+      section: framework
+      status: access
+      title: Vue.JS 3.0
+      aliases:
+        - VueJS30
+        - vuejs30
+        - Vue30
+        - vue30
+      link: https://v3.ru.vuejs.org/
+    vuejs31:
+      section: framework
+      status: access
+      title: Vue.JS 3.1
+      aliases:
+        - VueJS31
+        - vuejs31
+        - Vue31
+        - vue31
+      link: https://v3.ru.vuejs.org/
+    vuejs32:
+      section: framework
+      status: access
+      title: Vue.JS 3.2
+      aliases:
+        - VueJS32
+        - vuejs32
+        - Vue32
+        - vue32
+      link: https://v3.ru.vuejs.org/

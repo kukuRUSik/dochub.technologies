@@ -1,0 +1,109 @@
+---
+
+technologies:
+  items:
+    mariadb:
+      section: database
+      status: hold
+      title: MariaDB
+      aliases:
+        - MariaDB
+        - mariadb
+      link: https://ru.wikipedia.org/wiki/MariaDB
+
+    mariadb100:
+      section: database
+      status: hold
+      title: MariaDB 10.0
+      aliases:
+        - MariaDB 10.0
+        - mariadb 10.0
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-100/
+    mariadb101:
+      section: database
+      status: hold
+      title: MariaDB 10.1
+      aliases:
+        - MariaDB 10.1
+        - mariadb 10.1
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-101/
+    mariadb102:
+      section: database
+      status: hold
+      title: MariaDB 10.2
+      aliases:
+        - MariaDB 10.2
+        - mariadb 10.2
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-102/
+    mariadb103:
+      section: database
+      status: hold
+      title: MariaDB 10.3
+      aliases:
+        - MariaDB 10.3
+        - mariadb 10.3
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-10-3/
+    mariadb104:
+      section: database
+      status: hold
+      title: MariaDB 10.4
+      aliases:
+        - MariaDB 10.4
+        - mariadb 10.4
+      link: https://mariadb.com/kb/en/changes-and-improvements-in-mariadb-10-4/
+    mariadb105:
+      section: database
+      status: hold
+      title: MariaDB 10.5
+      aliases:
+        - MariaDB 10.5
+        - mariadb 10.5
+      link: https://mariadb.com/kb/en/changes-and-improvements-in-mariadb-10-5/
+    mariadb106:
+      section: database
+      status: hold
+      title: MariaDB 10.6
+      aliases:
+        - MariaDB 10.6
+        - mariadb 10.6
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-106/
+    mariadb107:
+      section: database
+      status: hold
+      title: MariaDB 10.7
+      aliases:
+        - MariaDB 10.7
+        - mariadb 10.7
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-107/
+    mariadb108:
+      section: database
+      status: hold
+      title: MariaDB 10.8
+      aliases:
+        - MariaDB 10.8
+        - mariadb 10.8
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-108/
+    mariadb109:
+      section: database
+      status: hold
+      title: MariaDB 10.9
+      aliases:
+        - MariaDB 10.9
+        - mariadb 10.9
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-109/
+    mariadb1010:
+      section: database
+      status: hold
+      title: MariaDB 10.10
+      aliases:
+        - MariaDB 10.10
+        - mariadb 10.10
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-1010/
+    mariadb1011:
+      section: database
+      status: hold
+      title: MariaDB 10.11
+      aliases:
+        - MariaDB 10.11
+        - mariadb 10.11
+      link: https://mariadb.com/kb/en/changes-improvements-in-mariadb-1011/

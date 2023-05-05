@@ -1,0 +1,11 @@
+---
+
+technologies:
+  items:
+    git:
+      section: cvs
+      status: hold
+      title: git
+      aliases:
+        - git
+      link: https://ru.wikipedia.org/wiki/git

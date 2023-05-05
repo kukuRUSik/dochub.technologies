@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.yaml": "yaml",
+			"**/*.yaml": "yaml"
+		  },
+		  "dochub.plantumlMode": "elk"
+	}
+}

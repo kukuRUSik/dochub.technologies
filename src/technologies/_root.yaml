@@ -1,0 +1,34 @@
+---
+
+imports:
+  - language/_root.yaml
+  - framework/_root.yaml
+  - database/_root.yaml
+  - queue/_root.yaml
+  - cache/_root.yaml
+  - cvs/_root.yaml
+
+technologies:
+  sections:
+    unknown:
+      title: Неизвестно
+    language:
+      title: Языки программирования
+    framework:
+      title: Фреймворки
+    database:
+      title: Базы данных
+    queue:
+      title: Очереди
+    cache:
+      title: Кеширование
+    cvs:
+      title: Системы управления версиями
+
+  items:
+    unknown:
+      section: unknown
+      status: hold
+      title: unknown
+      aliases:
+        - unknown

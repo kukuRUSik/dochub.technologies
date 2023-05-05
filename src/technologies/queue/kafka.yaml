@@ -1,0 +1,14 @@
+---
+
+technologies:
+  items:
+    kafka:
+      section: queue
+      status: hold
+      title: Apache Kafka
+      aliases:
+        - Apache Kafka
+        - apache kafka
+        - Kafka
+        - kafka
+      link: https://ru.wikipedia.org/wiki/Apache_Kafka

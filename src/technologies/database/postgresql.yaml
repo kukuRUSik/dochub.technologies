@@ -1,0 +1,65 @@
+---
+
+technologies:
+  items:
+    postgresql:
+      section: database
+      status: hold
+      title: PostgreSQL
+      aliases:
+        - PostgreSQL
+        - postgresql
+        - Postgres
+        - postgres
+      link: https://ru.wikipedia.org/wiki/PostgreSQL
+
+    postgresql11:
+      section: database
+      status: hold
+      title: PostgreSQL 11
+      aliases:
+        - PostgreSQL 11
+        - postgresql 11
+        - Postgres 11
+        - postgres 11
+      link: https://www.postgresql.org/docs/release/11.0/
+    postgresql12:
+      section: database
+      status: hold
+      title: PostgreSQL 12
+      aliases:
+        - PostgreSQL 12
+        - postgresql 12
+        - Postgres 12
+        - postgres 12
+      link: https://www.postgresql.org/docs/release/12.0/
+    postgresql13:
+      section: database
+      status: hold
+      title: PostgreSQL 13
+      aliases:
+        - PostgreSQL 13
+        - postgresql 13
+        - Postgres 13
+        - postgres 13
+      link: https://www.postgresql.org/docs/release/13.0/
+    postgresql14:
+      section: database
+      status: hold
+      title: PostgreSQL 14
+      aliases:
+        - PostgreSQL 14
+        - postgresql 14
+        - Postgres 14
+        - postgres 14
+      link: https://www.postgresql.org/docs/release/14.0/
+    postgresql15:
+      section: database
+      status: hold
+      title: PostgreSQL 15
+      aliases:
+        - PostgreSQL 15
+        - postgresql 15
+        - Postgres 15
+        - postgres 15
+      link: https://www.postgresql.org/docs/release/15.0/

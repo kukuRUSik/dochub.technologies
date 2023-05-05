@@ -1,0 +1,53 @@
+---
+
+technologies:
+  items:
+    php:
+      section: language
+      status: hold
+      title: PHP
+      aliases:
+        - PHP
+        - php
+      link: https://ru.wikipedia.org/wiki/PHP
+
+    php5:
+      section: language
+      status: hold
+      title: PHP 5
+      aliases:
+        - PHP5
+        - php5
+      link: https://ru.wikipedia.org/wiki/PHP
+    php6:
+      section: language
+      status: hold
+      title: PHP 6
+      aliases:
+        - PHP6
+        - php6
+      link: https://ru.wikipedia.org/wiki/PHP
+    php7:
+      section: language
+      status: hold
+      title: PHP 7
+      aliases:
+        - PHP7
+        - php7
+      link: https://ru.wikipedia.org/wiki/PHP
+    php8:
+      section: language
+      status: hold
+      title: PHP 8
+      aliases:
+        - PHP8
+        - php8
+      link: https://ru.wikipedia.org/wiki/PHP
+    php81:
+      section: language
+      status: hold
+      title: PHP 8.1
+      aliases:
+        - PHP81
+        - php81
+      link: https://ru.wikipedia.org/wiki/PHP

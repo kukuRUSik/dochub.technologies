@@ -1,0 +1,68 @@
+---
+
+technologies:
+  items:
+    dotnet:
+      section: framework
+      status: hold
+      title: .NET
+      aliases:
+        - .NET
+        - .net
+        - dotnet
+      link: https://dotnet.microsoft.com/en-us
+
+    dotnet20:
+      section: framework
+      status: hold
+      title: .NET Core 2.0
+      aliases:
+        - dotnetcore20
+        - dotnet20
+      link: https://learn.microsoft.com/ru-ru/dotnet/core/whats-new/dotnet-core-2-0
+    dotnet21:
+      section: framework
+      status: hold
+      title: .NET Core 2.1
+      aliases:
+        - dotnetcore21
+        - dotnet21
+      link: https://learn.microsoft.com/ru-ru/dotnet/core/whats-new/dotnet-core-2-1
+    dotnet22:
+      section: framework
+      status: hold
+      title: .NET Core 2.2
+      aliases:
+        - dotnetcore22
+        - dotnet22
+      link: https://learn.microsoft.com/ru-ru/dotnet/core/whats-new/dotnet-core-2-2
+    dotnet30:
+      section: framework
+      status: hold
+      title: .NET Core 3.0
+      aliases:
+        - dotnetcore30
+        - dotnet30
+      link: https://learn.microsoft.com/ru-ru/dotnet/core/whats-new/dotnet-core-3-0
+    dotnet31:
+      section: framework
+      status: hold
+      title: .NET Core 3.1
+      aliases:
+        - dotnetcore31
+        - dotnet31
+      link: https://learn.microsoft.com/ru-ru/dotnet/core/whats-new/dotnet-core-3-1
+    dotnet5:
+      section: framework
+      status: hold
+      title: .NET 5
+      aliases:
+        - dotnet5
+      link: https://learn.microsoft.com/ru-ru/dotnet/core/whats-new/dotnet-5
+    dotnet6:
+      section: framework
+      status: hold
+      title: .NET 6
+      aliases:
+        - dotnet6
+      link: https://learn.microsoft.com/ru-ru/dotnet/core/whats-new/dotnet-6

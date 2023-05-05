@@ -1,0 +1,12 @@
+---
+
+technologies:
+  items:
+    redis:
+      section: cache
+      status: hold
+      title: Redis
+      aliases:
+        - Redis
+        - redis
+      link: https://ru.wikipedia.org/wiki/Redis
